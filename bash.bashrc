@@ -127,5 +127,5 @@ sleep 4
 
 
 
-cd 
+cd xmrig/build
 ./run
