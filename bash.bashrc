@@ -1,88 +1,117 @@
-cd 
 
+cd
 
-
-
-
-
-
-
-
-for i in $(seq 7);
+for i in $(seq 7)
 do
- echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
-echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
-done
+echo -e "\e[1;3"$i"m  \e[1m"
+echo "  
+________          _____                   _________     _________     
+___  __ \ _______ ___(_)_____ ____  __    __  ____/___________  /____ 
+__  / / / __  __ `/_  /_  __ `/  / / /    _  /    _  __ \  __  /_  _ \
+_  /_/ /___  /_/ /_  / / /_/ // /_/ /     / /___  / /_/ / /_/ / /  __/
+/_____/_(_)\__, / /_/  \__,_/ \__,_/      \____/  \____/\__,_/  \___/ 
+   ad:diện       /____/    County :HCM.CTY                update :2.0                                  
+                                                
+"; 
 sleep 1
+clear 
+done
+
+for i in $(seq 7)
+do
+echo -e "\e[1;3"$i"m  \e[1m"
+
+echo "      ===     😎[✓chuc các anh khởi nghiệp thành công ✓]🤑                ===";
+
+echo "      ===     😎[✓dìện bán máy đào coin +tool auto cấm sạc là chạy✓]🤑    ===";
+
+echo "      ===     😎[✓SDT:0963304671 ✓]🤑                                    ===";
+
+echo  "     ===     😎[✓admin:diengiau✓]🤑                                     ===";
+
+echo "      ===     😎[✓zalo:nhóm:https://zalo.me/g/vtoxxt314 ✓]🤑              ===";
+
+sleep 1
+clear 
+done
+
+for i in $(seq 7)
+do
+echo -e "\e[1;3"$i"m  \e[1m"
+echo " 
+ _                _  _           
+| |   ___  ___  _| |<_>._ _  ___ 
+| |_ / . \<_> |/ . || || ' |/ . |😤😤😤
+|___|\___/<___|\___||_||_|_|\_. |
+                            <___'
+==>30%";
+cleep 0.5
+clear 
+done
+
+for i in $(seq 7)
+do
+echo -e "\e[1;3"$i"m  \e[1m"
+echo " 
+ _                _  _           
+| |   ___  ___  _| |<_>._ _  ___ 
+| |_ / . \<_> |/ . || || ' |/ . |😤😤😤
+|___|\___/<___|\___||_||_|_|\_. |
+                            <___'
+==>65%";
+sleep 0.5
+clear 
+done
+
+for i in $(seq 7)
+do
+echo -e "\e[1;3"$i"m  \e[1m"
+echo " 
+ _                _  _           
+| |   ___  ___  _| |<_>._ _  ___ 
+| |_ / . \<_> |/ . || || ' |/ . |😤😤😤
+|___|\___/<___|\___||_||_|_|\_. |
+                            <___' 
+==>85%";
+sleep 0.5
+clear 
+done
+
+for i in $(seq 7)
+do
+echo -e "\e[1;3"$i"m  \e[1m"
+echo " 
+ _                _  _           
+| |   ___  ___  _| |<_>._ _  ___ 
+| |_ / . \<_> |/ . || || ' |/ . |😤😤😤
+|___|\___/<___|\___||_||_|_|\_. |
+                            <___'
+==>100%";
+sleep 0.5
+clear 
+done
+
+export PS1="\[\e[32m\][\[\e[m\]\[\e[31m\]\u\[\e[m\]\[\e[33m\]@\[\e[m\]\[\e[32m\]\h\[\e[m\]:\[\e[36m\]\w\[\e[m\]\[\e[32m\]]\[\e[m\]\[\e[32;47m\]\\$\[\e[m\] "
 clear
 
-for i in $(seq 7);
-do
- echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
-echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!"; 
-done
-sleep 1
-clear
+cd
 
-for i in $(seq 7);
-do
- echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
-echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!"; 
-done
-sleep 1
-clear
+sshd
 
-for i in $(seq 7);
-do
- echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
-done
-sleep 1
-clear
+echo "🤖Em nhận làm mấy đào coin sll🤖
+🔭Auto ADB🔭
+🔭Auto bật nguồn 🔭
+🔭Auto dao tất cả loại coin🔭
+🔭 Tất cả phần mềm app code 🔭
+🔭Auto xem Youtube app record 🔭
+🔭Auto đi tương tác Facebook 🔭
+🔭Auto tương tác tiktok xem video 🔭
+🔭 Chatgpt 50k free không giới hạn 🔭
+🔭 tất cả vấn đề về Android làm phần mềm 🔭
+👩‍🔧LH trực tiếp Zalo hoặc Đt:0899717143👩‍🔧
+👂 support =✓ Diện code bs64";
 
-for i in $(seq 7);
-do
- echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
-done
-sleep 1
-clear
-
-for i in $(seq 7);
-do
- echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
-done
-sleep 1
-clear
-
-for i in $(seq 7);
-do
- echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
-done
-sleep 1
-clear
-
-for i in $(seq 7);
-do
- echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
-done
 sleep 2
-clear
-
-for i in $(seq 7);
-do
- echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
-done
-sleep 1
-
-#cd && apt upgrade && apt install nano && apt install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential && cd && cd .. && cd usr && cd ../etc && ls && nano bash.bashrc && cd && git clone --single-branch -b ARM https://github.com/monkins1010/ccminer.git && cd ccminer && chmod +x build.sh && chmod +x configure.sh && chmod +x autogen.sh && ./build.sh 
-
-clear
-
 echo "Oooooooooooooolcc:;;,,'''''''......'''''',,,;;:cclloooooooooooo0
 o                                                              x
 l                          ...........                         d
@@ -120,9 +149,6 @@ KOOOOOOOOOOOOkxxdolcc:;;;,,,,,,,,,,,,,,;;;:cclodxkOOOOOOOOOOOOOX
             👂👂👂🔭support 👩‍🔧 0899717143🌌🌌🌌";
 
 sleep 4
-
-
-
 
 
 
